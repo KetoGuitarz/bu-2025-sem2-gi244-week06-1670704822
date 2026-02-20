@@ -19,9 +19,14 @@ public class WaveSpawnManagerExam04 : MonoBehaviour
     {
         if (currentWave >= waveConfigurations.Length)
         {
-            return;
+            if (enableWaveCycling == true)
+            {
+                currentWave = -1;
+                goto Noooodada;
+            }
         }
 
+    Noooodada:
         if (Time.time >= waveEndTime && waveController.IsComplete())
         {
             currentWave++;
@@ -34,17 +39,6 @@ public class WaveSpawnManagerExam04 : MonoBehaviour
                 waveController.StartWave(waveConfigurations[currentWave]);
                 waveEndTime = Time.time + waveConfigurations[currentWave].waveInterval;
             }
-        }
-        if (enableWaveCycling)
-        {
-            currentWave = 0;
-            waveController.StartWave(waveConfigurations[currentWave]);
-            waveEndTime = Time.time + waveConfigurations[currentWave].waveInterval;
-        }
-        else
-        {
-            Debug.Log("All waves completed!");
-            return;
         }
     }
 }
