@@ -1,15 +1,14 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
+using UnityEngine.InputSystem; 
 
 public class PlayerControllerExam03 : MonoBehaviour
 {
-    public float speed;
+    public float speed = 10f;
     public float xRange = 10;
     public GameObject projectilePrefab;
-
     public bool enableAutoFireMode;
     public float autoFireInterval = 0.1f;
-
+    private float nextFireTime = 0f;
     private float horizontalInput;
     private InputAction moveAction;
     private InputAction shootAction;
@@ -20,7 +19,6 @@ public class PlayerControllerExam03 : MonoBehaviour
         shootAction = InputSystem.actions.FindAction("Shoot");
     }
 
-    // Update is called once per frame
     void Update()
     {
         horizontalInput = moveAction.ReadValue<Vector2>().x;
@@ -30,14 +28,42 @@ public class PlayerControllerExam03 : MonoBehaviour
         {
             transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
         }
+
         if (transform.position.x > xRange)
         {
             transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
         }
 
-        if (shootAction.triggered)
+        if (enableAutoFireMode)
         {
-            Instantiate(projectilePrefab, transform.position, transform.rotation);
+            if (Time.time >= nextFireTime)
+            {
+                FireProjectile();
+                nextFireTime = Time.time + autoFireInterval;
+            }
+
         }
+
+        else
+        {
+            if (shootAction.triggered)
+            {
+
+                FireProjectile();
+
+            }
+
+        }
+
     }
+    void FireProjectile()
+    {
+        if (projectilePrefab != null)
+        {
+            Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+        }
+
+    }
+
 }
+

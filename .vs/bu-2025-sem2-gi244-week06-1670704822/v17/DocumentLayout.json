@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week06-1670704822\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B18954B-C8FA-21EA-025F-7039466988A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraControlExam06.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:41:05.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveSpawnManagerExam04.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:28:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControllerExam03.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:45:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerExam02.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:38:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:32:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week06-1670704822\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:32:44.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
